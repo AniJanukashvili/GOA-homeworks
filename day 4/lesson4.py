@@ -3,7 +3,7 @@ age = int(input("please enter your your age: "))
 plan = int(input("please enter your plain in the future: "))
 
 
-print(name + " " +"მომავალში მოგზაურობის შემდეგ იქნები", age + plan , "წლის")
+print(name + , age + plan , )
 
 
 

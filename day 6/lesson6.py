@@ -84,7 +84,6 @@ print(number1==number11)
 print(number1!=number11)
 
 
-
 # 10
 
 number1 = int(input("type any number: "))

@@ -40,7 +40,7 @@ print(10 <= 2)
 print(10 <= 1)
 print(10 <= 19)
 
-# #6
+ # 6
 
 print(5 == 5)
 print(6 == 6)
@@ -48,7 +48,7 @@ print(2 == 2)
 print(1 == 1)
 print(17 == 17)
 
-# # 7
+ # 7
 
 print(9 != 8)
 print(5 != 4)
@@ -56,7 +56,7 @@ print(10 != 17)
 print(14 != 7)
 print(4 != 7)
 
-# # 8
+ # 8
 
 number1 = (input("type any number: "))
 number2 = (input("type another number: "))

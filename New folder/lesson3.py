@@ -3,13 +3,4 @@ lastname=input("enter your last name")
 age=input("enter your age")
 
 
-print(name+lastname+age)
-
-
-
-
-
-
-
-
-
+print(name)+(lastname)+(age)

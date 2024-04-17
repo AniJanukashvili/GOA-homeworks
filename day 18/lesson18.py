@@ -1,24 +1,24 @@
 #  1
 
-# user_name = (input("please enter your name: "))
+user_name = (input("please enter your name: "))
 
-# if user_name == user_name.upper():
-#     print("yes!")
-# else:
-#     pass
+if user_name == user_name.upper():
+    print("yes!")
+else:
+    pass
 
 #  2
 
-# user_word = input("please enter uppercase word: ")
+user_word = input("please enter uppercase word: ")
 
-# count = 1
+count = 1
 
-# for char in user_word:
-#     count = count + 1
-# if char.lower() in user_word:
-#     user_word = input("please enter uppercase word: ")
+for char in user_word:
+    count = count + 1
+if char.lower() in user_word:
+    user_word = input("please enter uppercase word: ")
 
-# print(count, user_word)
+print(count, user_word)
 
 #  3
 

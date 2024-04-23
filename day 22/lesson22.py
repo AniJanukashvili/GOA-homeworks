@@ -2,7 +2,7 @@
 def manual_pop(list,value_index):
 
   for i in range:
-      if value_index != 0:
+      if value_index % 2 != 0:
          print(new_list.pop(list))
       else:
          print(new_list.append(list))

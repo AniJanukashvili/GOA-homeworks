@@ -1,20 +1,14 @@
-def manual_pop(list,index_value = 3):
-    for i in range:
-        index_value.pop(list)
 
+def manual_pop(list,value_index):
 
-list = [1, 'ani', 2 , 'mari']
+  for i in range:
+      if value_index != 0:
+         print(new_list.pop(list))
 
+list= [ 'ani','5','1']
+new_list = [ ]
 
-print(list)
-
-
-
-
-
-
-
-
+print(new_list)
 
 
 

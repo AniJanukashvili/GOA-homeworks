@@ -1,6 +1,6 @@
 name = str(input("please enter your name: "))
 age = int(input("please enter your your age: "))
-plan = int(input("please enter your plain in the future: "))
+plan = int(input("please enter your plan in the future: "))
 
 
 print(name + , age + plan , )
